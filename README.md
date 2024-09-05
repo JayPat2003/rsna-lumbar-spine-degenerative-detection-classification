@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/MRI_3D_medical_animation_still_showing_sagittal_section_of_human_lumbar_spine.jpg" alt="Lumbar Spine" width="400">
+    <img src="https://spinehealth.org/wp-content/uploads/2023/01/spine-anatomy-1.jpg" alt="Lumbar Spine" width="400">
 </p>
 
 ## Overview
